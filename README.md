@@ -10,6 +10,7 @@ A Low Level Design (LLD) implementation of a Parking Lot System using Java.
 * Assigns suitable parking slots to vehicles
 * Vehicle entry and exit management
 * Displays available parking slots on each floor
+* Calculates amount based on the entry and exit time of a vehicle
 * Object-oriented design using separate classes
 
 ## Classes
